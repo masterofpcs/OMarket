@@ -9,10 +9,7 @@
 *.class
 
 # Generated files
-bin/
-gen/
-out/
-
+platforms/
 # Gradle files
 .gradle/
 build/
